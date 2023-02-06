@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<rect x="945" y="5" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="955" y="15" font-size="10" style="fill:darkslategray">Sara María Ramírez Pérez</text>
+<text x="955" y="25" font-size="8" style="fill:slategray">2001-04-29: Avilés</text>
+<text x="955" y="35" font-size="6" style="fill:slategray">Coordenada [latitud=43.55205777798353, longitud=-5.936102335619281, altitud=26]</text>
+<text x="955" y="45" font-size="8" style="fill:slategray">Residencia: Avilés</text>
+<text x="955" y="55" font-size="6" style="fill:slategray">Coordenada [latitud=43.55539516182748, longitud=-5.922366444815168, altitud=22]</text>
+<text x="955" y="65" font-size="8" style="fill:slategray">Fotos: [sara.jpeg]</text>
+<text x="955" y="75" font-size="8" style="fill:slategray">Videos: [sara.mp4]</text>
+<path d="M1060 85 C1765 85 1060 185 1765 185" style="fill:transparent;stroke:indianred"/>
+<path d="M1060 85 C1060 85 1060 185 1060 185" style="fill:transparent;stroke:indianred"/>
+<path d="M1060 85 C355 85 1060 185 355 185" style="fill:transparent;stroke:indianred"/>
+<rect x="240" y="185" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="250" y="195" font-size="10" style="fill:darkslategray">Silvia Suárez Prendes</text>
+<text x="250" y="205" font-size="8" style="fill:slategray">2001-02-27: Pravia</text>
+<text x="250" y="215" font-size="6" style="fill:slategray">Coordenada [latitud=43.48758492992525, longitud=-6.113178509202413, altitud=57]</text>
+<text x="250" y="225" font-size="8" style="fill:slategray">Residencia: La Arena</text>
+<text x="250" y="235" font-size="6" style="fill:slategray">Coordenada [latitud=43.55789427316034, longitud=-6.075515880166677, altitud=8]</text>
+<text x="250" y="245" font-size="8" style="fill:slategray">Fotos: [silvia.jpeg]</text>
+<text x="250" y="255" font-size="8" style="fill:slategray">Videos: []</text>
+<path d="M355 265 C590 265 355 365 590 365" style="fill:transparent;stroke:indianred"/>
+<path d="M355 265 C355 265 355 365 355 365" style="fill:transparent;stroke:indianred"/>
+<path d="M355 265 C120 265 355 365 120 365" style="fill:transparent;stroke:indianred"/>
+<rect x="5" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="15" y="375" font-size="10" style="fill:darkslategray">Celia Melendi Lavandera</text>
+<text x="15" y="385" font-size="8" style="fill:slategray">2001-09-01: Oviedo</text>
+<text x="15" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.37602335482933, longitud=-5.826971044800217, altitud=166]</text>
+<text x="15" y="405" font-size="8" style="fill:slategray">Residencia: Pola de Siero</text>
+<text x="15" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.391954193048434, longitud=-5.663191627791036, altitud=258]</text>
+<text x="15" y="425" font-size="8" style="fill:slategray">Fotos: [celia.jpeg]</text>
+<text x="15" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="240" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="250" y="375" font-size="10" style="fill:darkslategray">Iván Vega García</text>
+<text x="250" y="385" font-size="8" style="fill:slategray">2001-03-06: Avilés</text>
+<text x="250" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.55205777798353, longitud=-5.936102335619281, altitud=26]</text>
+<text x="250" y="405" font-size="8" style="fill:slategray">Residencia: Avilés</text>
+<text x="250" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.56236142960182, longitud=-5.926744769381713, altitud=27]</text>
+<text x="250" y="425" font-size="8" style="fill:slategray">Fotos: [ivan.jpeg]</text>
+<text x="250" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="475" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="485" y="375" font-size="10" style="fill:darkslategray">Elena Selgas Fernández</text>
+<text x="485" y="385" font-size="8" style="fill:slategray">2001-12-02: Pravia</text>
+<text x="485" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.4880297103507, longitud=-6.113777037769097, altitud=57]</text>
+<text x="485" y="405" font-size="8" style="fill:slategray">Residencia: Lugo</text>
+<text x="485" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.006172367015694, longitud=-7.558507437897362, altitud=454]</text>
+<text x="485" y="425" font-size="8" style="fill:slategray">Fotos: [elena.jpeg]</text>
+<text x="485" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="945" y="185" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="955" y="195" font-size="10" style="fill:darkslategray">Laura Gómez Menéndez</text>
+<text x="955" y="205" font-size="8" style="fill:slategray">2001-01-01: Tebongo</text>
+<text x="955" y="215" font-size="6" style="fill:slategray">Coordenada [latitud=43.23860446899653, longitud=-6.502905988432673, altitud=523]</text>
+<text x="955" y="225" font-size="8" style="fill:slategray">Residencia: Oviedo</text>
+<text x="955" y="235" font-size="6" style="fill:slategray">Coordenada [latitud=43.36477581220521, longitud=-5.858897926390938, altitud=242]</text>
+<text x="955" y="245" font-size="8" style="fill:slategray">Fotos: [laura.jpeg]</text>
+<text x="955" y="255" font-size="8" style="fill:slategray">Videos: []</text>
+<path d="M1060 265 C1295 265 1060 365 1295 365" style="fill:transparent;stroke:indianred"/>
+<path d="M1060 265 C1060 265 1060 365 1060 365" style="fill:transparent;stroke:indianred"/>
+<path d="M1060 265 C825 265 1060 365 825 365" style="fill:transparent;stroke:indianred"/>
+<rect x="710" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="720" y="375" font-size="10" style="fill:darkslategray">Miguel Gayol Pertierra</text>
+<text x="720" y="385" font-size="8" style="fill:slategray">2001-05-25: Oviedo</text>
+<text x="720" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.37602335482933, longitud=-5.826971044800217, altitud=166]</text>
+<text x="720" y="405" font-size="8" style="fill:slategray">Residencia: La Florida</text>
+<text x="720" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.367810861051794, longitud=-5.874070632221418, altitud=242]</text>
+<text x="720" y="425" font-size="8" style="fill:slategray">Fotos: [miguel.jpeg]</text>
+<text x="720" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="945" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="955" y="375" font-size="10" style="fill:darkslategray">Luis Sánchez de Posada Orihuela</text>
+<text x="955" y="385" font-size="8" style="fill:slategray">2001-08-25: Oviedo</text>
+<text x="955" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.37602335482933, longitud=-5.826971044800217, altitud=166]</text>
+<text x="955" y="405" font-size="8" style="fill:slategray">Residencia: Montecerrao</text>
+<text x="955" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.35127579914649, longitud=-5.8639465308722265, altitud=242]</text>
+<text x="955" y="425" font-size="8" style="fill:slategray">Fotos: [luis.jpeg]</text>
+<text x="955" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="1180" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="1190" y="375" font-size="10" style="fill:darkslategray">Jairo Castro García</text>
+<text x="1190" y="385" font-size="8" style="fill:slategray">2000-12-02: Luarca</text>
+<text x="1190" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.54528931048142, longitud=-6.537775396528275, altitud=0]</text>
+<text x="1190" y="405" font-size="8" style="fill:slategray">Residencia: La Corredoria</text>
+<text x="1190" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.38906023231635, longitud=-5.822732215381706, altitud=166]</text>
+<text x="1190" y="425" font-size="8" style="fill:slategray">Fotos: [jairo.jpeg]</text>
+<text x="1190" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="1650" y="185" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="1660" y="195" font-size="10" style="fill:darkslategray">Olaya López Muñoz</text>
+<text x="1660" y="205" font-size="8" style="fill:slategray">1999-06-25: Torrelavega</text>
+<text x="1660" y="215" font-size="6" style="fill:slategray">Coordenada [latitud=43.34669279059895, longitud=-4.050255805933801, altitud=37]</text>
+<text x="1660" y="225" font-size="8" style="fill:slategray">Residencia: Avilés</text>
+<text x="1660" y="235" font-size="6" style="fill:slategray">Coordenada [latitud=43.55961055998111, longitud=-5.935794717770648, altitud=27]</text>
+<text x="1660" y="245" font-size="8" style="fill:slategray">Fotos: [olaya.jpeg]</text>
+<text x="1660" y="255" font-size="8" style="fill:slategray">Videos: []</text>
+<path d="M1765 265 C2000 265 1765 365 2000 365" style="fill:transparent;stroke:indianred"/>
+<path d="M1765 265 C1765 265 1765 365 1765 365" style="fill:transparent;stroke:indianred"/>
+<path d="M1765 265 C1530 265 1765 365 1530 365" style="fill:transparent;stroke:indianred"/>
+<rect x="1415" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="1425" y="375" font-size="10" style="fill:darkslategray">Kike Arango Rodríguez</text>
+<text x="1425" y="385" font-size="8" style="fill:slategray">1997-03-08: Luanco</text>
+<text x="1425" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.61141345763119, longitud=-5.793418152345481, altitud=56]</text>
+<text x="1425" y="405" font-size="8" style="fill:slategray">Residencia: Busto</text>
+<text x="1425" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.59514372868105, longitud=-5.83016168210446, altitud=56]</text>
+<text x="1425" y="425" font-size="8" style="fill:slategray">Fotos: [kike.jpeg]</text>
+<text x="1425" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="1650" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="1660" y="375" font-size="10" style="fill:darkslategray">Isabel Macho de Cos</text>
+<text x="1660" y="385" font-size="8" style="fill:slategray">1999-05-26: Torrelavega</text>
+<text x="1660" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.34784927362506, longitud=-4.0532922218672525, altitud=37]</text>
+<text x="1660" y="405" font-size="8" style="fill:slategray">Residencia: Oviedo</text>
+<text x="1660" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.353992964099206, longitud=-5.850412552325025, altitud=242]</text>
+<text x="1660" y="425" font-size="8" style="fill:slategray">Fotos: [isabel.jpeg]</text>
+<text x="1660" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+<rect x="1885" y="365" width="230" height="80" style="fill:lemonchiffon;stroke:indianred;stroke-width:2"/>
+<text x="1895" y="375" font-size="10" style="fill:darkslategray">Alex Caso Díaz</text>
+<text x="1895" y="385" font-size="8" style="fill:slategray">2000-11-03: El Entrego</text>
+<text x="1895" y="395" font-size="6" style="fill:slategray">Coordenada [latitud=43.287666968492005, longitud=-5.63456233512747, altitud=498]</text>
+<text x="1895" y="405" font-size="8" style="fill:slategray">Residencia: El Entrego</text>
+<text x="1895" y="415" font-size="6" style="fill:slategray">Coordenada [latitud=43.28760384271391, longitud=-5.641638742214042, altitud=498]</text>
+<text x="1895" y="425" font-size="8" style="fill:slategray">Fotos: [alex.jpeg]</text>
+<text x="1895" y="435" font-size="8" style="fill:slategray">Videos: []</text>
+</svg>

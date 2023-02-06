@@ -1,0 +1,21 @@
+---------- GRAPH ----------
+simpleExample-instance :  directed
+
+NODES ----------------------
+NODE: id = p
+	ATTRIBUTE: name =  file, value =  main.c
+NODE: id = q
+	ATTRIBUTE: name =  file, value =  test.c
+NODE: id = v
+	ATTRIBUTE: name =  line, value =  test.v
+NODE: id = w
+	ATTRIBUTE: name =  line, value =  test.w
+EDGES ----------------------
+EDGE: id = r1, to = v, from = p
+	ATTRIBUTE: name =  line, value =  127
+EDGE: id = r2, to = w, from = q
+	ATTRIBUTE: name =  line, value =  27
+EDGE: id = c, to = q, from = p
+	ATTRIBUTE: name =  line, value =  42
+
+Sara María Ramírez Pérez

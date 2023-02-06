@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://tempuri.org/persona" elementFormDefault="qualified" targetNamespace="http://tempuri.org/persona" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="persona">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" ref="datos" />
+        <xs:sequence minOccurs="0" maxOccurs="1">
+          <xs:element minOccurs="1" maxOccurs="1" ref="persona" />
+          <xs:element minOccurs="1" maxOccurs="1" ref="persona" />
+          <xs:element minOccurs="1" maxOccurs="1" ref="persona" />
+        </xs:sequence>
+      </xs:sequence>
+      <xs:attribute name="nombre" type="xs:string" use="required" />
+      <xs:attribute name="apellidos" type="xs:string" use="required" />
+      <xs:attribute name="fechaNacimiento" type="xs:date" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="datos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" ref="lugarNacimiento" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="coordenadasNacimiento" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="lugarResidencia" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="coordenadasResidencia" />
+        <xs:element minOccurs="1" maxOccurs="unbounded" ref="foto" />
+        <xs:element minOccurs="0" maxOccurs="3" ref="video" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="comentario" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lugarNacimiento" type="xs:string" />
+  <xs:element name="coordenadasNacimiento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" ref="longitud" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="latitud" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="altitud" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lugarResidencia" type="xs:string" />
+  <xs:element name="coordenadasResidencia">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" ref="longitud" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="latitud" />
+        <xs:element minOccurs="1" maxOccurs="1" ref="altitud" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="foto" type="xs:string" />
+  <xs:element name="video" type="xs:string" />
+  <xs:element name="comentario" type="xs:string" />
+  <xs:element name="longitud" type="xs:double" />
+  <xs:element name="latitud" type="xs:double" />
+  <xs:element name="altitud" type="xs:double" />
+</xs:schema>
